@@ -2,7 +2,7 @@ import '../css/application.css';
 import $ from "./jquery-2.1.0.min"
 import Icon from '../img/background.png';
 
-var names = ['Tiger', 'Samuel', 'Leeloo',
+var names = ['S14', 'Alejandro', 'Cristian',
              'Bella', 'Mo', 'Sly',
              'Beezy', 'Maple', 'Rodney',
              'Yonce', 'Reginald', 'Winifred'];
